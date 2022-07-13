@@ -23,6 +23,7 @@ public with sharing class DMLRecipes {
     /**
      * @description This exception is for throwing a custom exception to
      * highlight how negative tests operate.
+     * Testing the data and check here.
      */
     public class CustomDMLException extends Exception {
     }
