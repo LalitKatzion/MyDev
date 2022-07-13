@@ -32,7 +32,9 @@ public with sharing class DMLRecipes {
      * @description Demonstrates how to use the insert keyword to persist a
      * net-new record to the database
      * @param  name name passed through to the name of the created account
-     * @example DMLRecipes.insertAccountViaInsertKeyword('Hello');
+     * @example DMLRecipes.insertAccountViaInsertKeyword('Hello'); 
+     * fksfksrf
+     * 
      */
     public static void insertAccountViaInsertKeyword(String name) {
         Account acct = new Account();
